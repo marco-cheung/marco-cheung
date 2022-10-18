@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @marco-cheung
-- 👀 I’m interested in exploring business insights using technologies.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on open-data projects 
+- 👋 Hi, I’m Marco Cheung.
+- 👀 I’m keen on turning data into insights by operationalizing data analytics and business intelligence.  
 - 📫 You may reach me at marco1992@gmail.com
 
 <!---
