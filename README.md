@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marco Cheung.
-- 👀 I’m keen on turning data into insights by operationalizing data analytics and business intelligence.  
+- 👀 I’m keen on turning data into insights by operationalizing data analytics, business intelligence and generative AI.  
 - 📫 You may reach me at marco1992@gmail.com
 
 <!---
